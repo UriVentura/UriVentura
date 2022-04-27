@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oriol Ventura</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on **42_Push-Swap**
+- 🔭 I’m currently working on **42_Philosophers**
 
 - 🌱 I’m currently learning **C, C++, Swift, Kotlin...**
 
