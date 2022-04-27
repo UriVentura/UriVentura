@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **42_Philosophers**
 
-- 🌱 I’m currently learning **C, C++, Swift, Kotlin...**
+- 🌱 I’m currently learning **C, C++, Angular**
 
 
 <h3 align="left">Languages and Tools:</h3>
