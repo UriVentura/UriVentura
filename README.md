@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oriol Ventura</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🌱 I’m currently learning **C, C++, Angular, Go**
+- 🌱 I’m currently learning **Python, Rust, C++, Angular**
 
 
 <h3 align="left">Languages and Tools:</h3>
